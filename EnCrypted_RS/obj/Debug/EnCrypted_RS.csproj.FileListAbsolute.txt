@@ -1,0 +1,4 @@
+C:\MAVI\EnCrypted_RS\EnCrypted_RS\bin\Debug\EnCrypted_RS.dll
+C:\MAVI\EnCrypted_RS\EnCrypted_RS\bin\Debug\EnCrypted_RS.pdb
+C:\MAVI\EnCrypted_RS\EnCrypted_RS\obj\Debug\EnCrypted_RS.dll
+C:\MAVI\EnCrypted_RS\EnCrypted_RS\obj\Debug\EnCrypted_RS.pdb
